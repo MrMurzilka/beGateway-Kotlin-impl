@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestPayment</string>
+    <string name="msg_use_3d">3d-secure</string>
+    <string name="card_visibility">card vis</string>
+    <string name="card_holder_visibility">card holder vis</string>
+    <string name="card_date_visibility">card date vis</string>
+    <string name="cvv_visibility">cvv vis</string>
+    <string name="nfc_visibility">nfc vis</string>
+    <string name="save_card_visibility">save card vis</string>
+    <string name="action_get_token">get token</string>
+    <string name="pay_with_card_token">pay with card token</string>
+    <string name="pay_with_checkout">pay with checkout</string>
+    <string name="hint_token">hint token\n</string>
+</resources>
